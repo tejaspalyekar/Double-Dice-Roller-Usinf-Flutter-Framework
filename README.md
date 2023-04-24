@@ -1,5 +1,4 @@
-# first_app
-
+# Double Dice Roller Using Flutter
 A new Flutter project.
 
 ## Getting Started
